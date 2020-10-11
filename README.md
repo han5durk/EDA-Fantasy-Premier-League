@@ -10,4 +10,4 @@ I found out some interesting insights of managing a FPL team. They are as follow
 - In general costly players are always better than mid-range or low-range players. But there are some mid-range players who are as good as high-range ones. Early detection of such players and transferring them in would be a good move. Also sometimes people get confused, whether they should go for some costly players and fill others with just okay players. Or get a team full of mid-range players. It is seen that the former strategy works better.
 - Players actually playing well also generally give high points. There are some discrepancies, but mostly the correlation is linear.
 
-Dataset used can be found here: https://github.com/vaastav/Fantasy-Premier-League
+Dataset used can be found here: [Vaastav Anand's github repo](https://github.com/vaastav/Fantasy-Premier-League)
